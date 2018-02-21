@@ -10,7 +10,10 @@ namespace ConsoleApp1
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("dvi");
             Console.WriteLine("tris");
+            Console.WriteLine("eilutes");
+            Console.ReadKey();
         }
     }
 }
